@@ -18,6 +18,7 @@ hamburger.addEventListener("click", function (event) {
     }
 });
 // ------------- weather App
+
 // -- const API_KEY = "YOUR_API_KEY_HERE";
 const apiKey = "8517eaaf954d571233b1dfeae0606ef3";
 

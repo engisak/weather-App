@@ -42,7 +42,10 @@ Mashruucan waxaa loo sameeyay in lagu barto:
 ![Result Screenshot](screenshots/result.JPG)
 
 ---
+## 🚀 Live Demo
+👉 [Visit the Weather App](https://engisak-weather-app.vercel.app/)
 
+---
 ## 📥 Installation & Setup
 
 1. Clone repo-ga:
