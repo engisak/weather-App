@@ -43,6 +43,7 @@ async function getWeather(city = null) {
 // input empty 
 document.getElementById("cityInput").value = "";
 // weather 
+weatherContainer.innerHTML = '';
 const weatherDiv = document.createElement('div');
 weatherDiv.className = 'weather';
 
